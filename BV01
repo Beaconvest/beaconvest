@@ -1,0 +1,9 @@
+backend/
+  main.py
+  routers/
+  requirements.txt
+frontend/
+  app.py
+  requirements.txt
+docs/
+  README.md
